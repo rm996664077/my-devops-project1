@@ -1,0 +1,12 @@
+# Environnement virtuel Python
+venv/
+.venv/
+
+# Fichiers et caches Python / Pytest
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Divers OS
+.DS_Store
+Thumbs.db
